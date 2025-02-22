@@ -1,11 +1,17 @@
-# Aplikasi Kalkulator
-UKK 2024/2025
+# KALKULATOR SEDERHANA
+
+# Deskripsi
+Kalkulator sederhana online menggunakan HTML adalah aplikasi web yang memungkinkan pengguna melakukan perhitungan matematika dasar secara online menggunakan bahasa markup HTML.
 
 # Fitur Kalkulator
-UKK 2024/2025
+-Input angka pertama dan kedua
+-Tombol operasi matematika (+,*,÷,-)
+-Tampilan sederhana dan responsif
 
-# Paduan pengguna
-UKK 2024/2025
+# Teknologi Yang Digunakan
+-HTML
+-CSS
+-JAVA SCRIPT
 
 # Made by
-UKK 2024/2025
+Vitriani XII RPL 2
